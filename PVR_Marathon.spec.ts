@@ -47,6 +47,8 @@ test(`Verify dynamic movie ticket booking flow`,async({page})=>{
 
     
     console.log("Hii")
+    console.log("Hello")
+
 
 
     
