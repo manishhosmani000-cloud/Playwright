@@ -46,7 +46,7 @@ test(`Verify dynamic movie ticket booking flow`,async({page})=>{
     //await page.getByRole(`button`,{name:"Proceed"}).click()
 
     
-    
+    console.log("Hii")
 
 
     
